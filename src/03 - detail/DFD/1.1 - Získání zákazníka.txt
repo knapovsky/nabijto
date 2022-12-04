@@ -1,0 +1,3 @@
+1.1 Získání zákazníka
+
+Funkční diagram nelze detailně modelovat z toho důvodu, že referenční globální BPMN diagram "Získání zákazníka" vůbec nezmiňuje zákazníka
